@@ -106,7 +106,7 @@ Dashboard 2 (Filtered View – 2013)
 
 **How to Use**
 
-Download the Power BI file from this repository
+Download the Power BI file from the Google drive link provided.
 
 Open it using Power BI Desktop
 
