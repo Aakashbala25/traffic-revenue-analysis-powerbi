@@ -114,13 +114,19 @@ Use the available filters (such as year selection) to explore different views
 
 **Files in this Repository**
 
-traffic-revenue-dashboard.pbix – Power BI dashboard file
+readme.md - Project documentation
 
 datamodel.png – Data model image
 
 dashboard-1.png – Dashboard screenshot 2014
 
 dashboard-2.png – Dashboard screenshot 2013
+
+## Power BI File
+
+The `.pbix` file exceeds GitHub's upload limit and is hosted on Google Drive instead.
+
+ [Download the .pbix file from Google Drive](https://drive.google.com/drive/folders/1UJroqLq5bPhQe_nrwlDEkoZS9hxYn-lg?usp=sharing)
 
 **About This Project**
 
